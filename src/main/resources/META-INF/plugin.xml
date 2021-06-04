@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>org.example.TestPlugin</id>
+    <name>Mvp Code</name>
+    <vendor email="coder.zzq@163.com" url="">11</vendor>
+
+    <description>fdasfdsafdsfdsfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafdassssss</description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+
+        <action id="sldfjkls" class="com.test.TestAction" text="Mvp Code" description="sdfkjlsf">
+            <add-to-group group-id="NewGroup" anchor="first"/>
+        </action>
+    </actions>
+</idea-plugin>

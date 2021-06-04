@@ -1,0 +1,27 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="2" last="1603191050249" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="1" last="1603180015015" />
+      </entry>
+      <entry key="FileChooser.ShowHiddens">
+        <ActionSummary times="2" last="1603201577375" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="1" last="1603180005911" />
+      </entry>
+      <entry key="NewHtmlFile">
+        <ActionSummary times="1" last="1603156078653" />
+      </entry>
+      <entry key="SynchronizeCurrentFile">
+        <ActionSummary times="2" last="1603199186460" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1603149107100" />
+      </entry>
+    </data>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jetbrains:platform-api:2020.2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.3/8da1f9add5eaff238a403058a25a22be5a339336/ideaIC-2020.2.3/lib/platform-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.3/ca2c667f0efff6177e69c38c990ea4f68c11e4d8/ideaIC-2020.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

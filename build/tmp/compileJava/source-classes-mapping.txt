@@ -1,0 +1,5 @@
+com.test/TreeClassChooser.java
+ com.test.TreeClassChooser
+com.test/TestAction.java
+ com.test.TestAction
+ com.test.TestAction$1

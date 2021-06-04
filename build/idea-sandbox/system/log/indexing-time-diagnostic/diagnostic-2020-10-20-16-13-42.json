@@ -1,0 +1,90 @@
+{
+  "appInfo" : {
+    "build" : "202.7660.26",
+    "buildDate" : "Tue, 6 Oct 2020 16:32:32 +0800",
+    "productCode" : "IC",
+    "generated" : "Tue, 20 Oct 2020 16:13:42 +0800",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.34"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "untitled",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 1,
+    "times" : {
+      "indexingTime" : "2 s 35 ms",
+      "scanFilesTime" : "1 s 822 ms",
+      "pushPropertiesTime" : "57 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Tue, 20 Oct 2020 16:13:40 +0800",
+      "pushPropertiesEnd" : "Tue, 20 Oct 2020 16:13:40 +0800",
+      "scanFilesStart" : "Tue, 20 Oct 2020 16:13:40 +0800",
+      "scanFilesEnd" : "Tue, 20 Oct 2020 16:13:41 +0800",
+      "indexExtensionsStart" : "Tue, 20 Oct 2020 16:13:40 +0800",
+      "indexExtensionsEnd" : "Tue, 20 Oct 2020 16:13:40 +0800",
+      "indexingStart" : "Tue, 20 Oct 2020 16:13:40 +0800",
+      "indexingEnd" : "Tue, 20 Oct 2020 16:13:42 +0800"
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "3.06 kB",
+      "indexingSpeed" : "357.95 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'untitled'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "3.06 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "56.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "3.06 kB",
+      "indexingSpeed" : "639.25 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "43.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "3.06 kB",
+      "indexingSpeed" : "821.2 kB/s"
+    }, {
+      "indexId" : "filetypes",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "3.06 kB",
+      "indexingSpeed" : "85.9 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'untitled'",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "128 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "3.06 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "56.0%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "43.6%"
+      } ],
+      "fastIndexers" : [ "filetypes" ]
+    } ]
+  }
+}
